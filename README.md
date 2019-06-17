@@ -1,6 +1,6 @@
 # Santiago MVT tiles example
 
-Requeriments
+Requirements
 
 - Tippecanoe
 - MBUtil
